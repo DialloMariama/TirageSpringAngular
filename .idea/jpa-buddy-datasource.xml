@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="3ba1b163-1c6a-49f5-94f4-d46079cef0f1" name="Angular_Spring" url="jdbc:postgresql://localhost/Angular_Spring" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>

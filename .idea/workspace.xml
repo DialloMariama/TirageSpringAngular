@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdf906a3-cced-4cda-8e08-ec56f17a022c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/mon-application-angular/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/mon-application-angular/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-application-angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mon-application-angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-application-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mon-application-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-application-angular/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mon-application-angular/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-application-angular/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mon-application-angular/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-application-angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mon-application-angular/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mon-application-angular" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2KVMtJxzUB1t4nO6IuBEDsVKlSp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Angular_Spring/Backend/src/main/java/com/Tirage/Backend"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf906a3-cced-4cda-8e08-ec56f17a022c" name="Changes" comment="" />
+      <created>1674055513722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674055513722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
